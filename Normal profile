@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+ 
+ 
+<html >
+ 
+ 
+<head>
+ 
+ 
+   
+ 
+ 
+    <title>Document</title>
+  
+ 
+    <style>
+  
+ 
+        body{
+  
+ 
+             font-family: arial;
+ 
+ 
+            background: #001e4a;
+ 
+ 
+            color: white;
+ 
+ 
+            text-align: center;
+ 
+ 
+        }
+ 
+ 
+        .welcome{
+ 
+ 
+            color: #56f921;
+ 
+ 
+            font-size: 27px;
+ 
+ 
+            font-weight: 
+ 
+ 
+        }
+ 
+ 
+        .top span{
+ 
+ 
+            color: yellow;
+ 
+ 
+        }
+ 
+ 
+        .info{
+ 
+ 
+            border: 2px solid red;
+ 
+ 
+            padding: 20px;
+ 
+ 
+            margin: 10px;
+ 
+ 
+        }
+ 
+ 
+        b{
+ 
+ 
+            color: red;
+ 
+ 
+            font-size: 20px
+  
+ 
+        }
+ 
+ 
+        img{
+  
+            height: 500px;
+            width:100%;
+ 
+ 
+        }
+
+ 
+    </style>
+ 
+ 
+</head>
+ 
+ 
+<body>
+  
+ 
+    <center>
+  
+ 
+       <h1 class="welcome">Welcome To My website</h1>
+ 
+ 
+       <h3 class="top">I am <span>"sahil gajera"</span></h3>
+  
+ 
+        <img src="myp.jpeg">
+  
+ 
+        <h1>About myself</h1>
+  
+ 
+        <hr>
+ 
+ 
+        <p>Hello, My name is sahil gajera.I am a web developer.Sodales iaculis est Scelerisque sociis magna dolor pulvinar magnis. Varius praesent suscipit. Donec morbi feugiat placerat gravida porttitor natoque nonummy parturient posuere. Magnis suspendisse parturient. Magna ultricies nostra nunc magna. Sodales etiam arcu suscipit, mollis. Aenean</p>
+ 
+ 
+        <br>
+ 
+ 
+        <br>
+ 
+ 
+        <div class="info">
+ 
+ 
+        <h1>CONTACT US</h1>
+  
+ 
+     <b>Name:</b> sahil gajera <br>
+  
+ 
+     <b>Email:</b> gajerasahil69@gmail.com
+ 
+ 
+     <br><br>
+ 
+     <b>Phone:   </b>+919724360621
+     <br> 
+     
+     <b>Date of Birth: </b>  1 December 2003
+ 
+ 
+     <br>
+ 
+ 
+     <br>
+ 
+ 
+     
+  
+ 
+       <b>school:</b> pp savani |
+ 
+ 
+     <b>Collage:</b> silver oak University 
+ 
+ 
+    </div>
+  
+ 
+    <br>
+ 
+ 
+    <br>
+ 
+    </center>
+ 
+ 
+</body>
+ 
+ 
+</html>
